@@ -5,6 +5,8 @@
 
 While the concept of **Latent Space** in data science refers to a multidimensional space for abstracting data layers, **Latent Needs** are often overlooked. Their importance grows as technology evolves rapidly. Identifying these needs requires deep understanding of market trends and human behaviors. As a professional with exceptional expertise in data science and business management, I excel in anticipating and uncovering latent needs, enabling the development of innovative solutions ahead of the market curve.
 
+
+![Strategic Analysis in the Platform Ecnonomy](latent-needs.png)
 --- 
 
 
